@@ -118,7 +118,7 @@ npm start
 ```
 
 
-The app will open at `http://localhost:ayushraistudio
+The app will open at `http://exam.netlify.app
 ## 📸 Screenshots
 
 | Landing Page | Admin Dashboard |
