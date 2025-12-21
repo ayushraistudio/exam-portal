@@ -1,6 +1,6 @@
-# 🚀 ExamPortal - Secure Online Examination System
+# 🚀 ExamPorta - Secure Online Examination System
 
-**ExamPortal** is a robust, full-stack web application designed to bridge the gap between Institutes (Admins) and Students. It allows institutes to conduct secure, live, and open exams while providing students with a seamless testing interface, real-time results, and performance analytics.
+**ExamPorta** is a robust, full-stack web application designed to bridge the gap between Institutes (Admins) and Students. It allows institutes to conduct secure, live, and open exams while providing students with a seamless testing interface, real-time results, and performance analytics.
 
 Built with **React.js** and powered by **Firebase**.
 
@@ -98,7 +98,7 @@ Follow these instructions to run the project locally.
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/ayushraistudio/exam-portal.git](https://github.com/ayushraistudio/exam-portal.git)
+git clone [https://github.com/ayushraistudio/exam-porta.git](https://github.com/ayushraistudio/exam-portal.git)
 cd exam-portal
 
 ```
