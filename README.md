@@ -86,7 +86,7 @@ src/
 * **Styling:** Tailwind CSS (Custom Theme Configuration)
 * **Backend/Database:** Firebase Firestore (NoSQL)
 * **Authentication:** Firebase Auth
-* **Hosting:** GitHub Pages / Netlify
+* **Hosting:** GitHub Pages / vercel
 
 ---
 
@@ -118,7 +118,7 @@ npm start
 ```
 
 
-The app will open at `http://exam-porta.netlify.app
+The app will open at https://exam-porta.vercel.app
 ## 📸 Screenshots
 
 | Landing Page | Admin Dashboard |
