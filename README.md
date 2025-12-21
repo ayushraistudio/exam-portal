@@ -118,7 +118,7 @@ npm start
 ```
 
 
-The app will open at `http://exam.netlify.app
+The app will open at `http://exam-porta.netlify.app
 ## 📸 Screenshots
 
 | Landing Page | Admin Dashboard |
