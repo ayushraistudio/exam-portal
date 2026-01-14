@@ -86,7 +86,7 @@ src/
 * **Styling:** Tailwind CSS (Custom Theme Configuration)
 * **Backend/Database:** Firebase Firestore (NoSQL)
 * **Authentication:** Firebase Auth
-* **Hosting:** GitHub Pages / vercel
+* **Hosting:**  Vercel
 
 ---
 
@@ -98,7 +98,7 @@ Follow these instructions to run the project locally.
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/ayushraistudio/exam-porta.git](https://github.com/ayushraistudio/exam-portal.git)
+git clone https://github.com/ayushraistudio/exam-portal.git
 cd exam-portal
 
 ```
